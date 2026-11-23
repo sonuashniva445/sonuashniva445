@@ -1,127 +1,82 @@
-# Hi there, I'm Sonu Kumar 👋
+<div align="center">
 
-### Enterprise Full Stack Developer | SaaS Platform Engineering | Backend Development
+<img src="./assets/header.svg" alt="Hi, I'm Sonu Kumar - Enterprise Full Stack Developer" width="100%" />
 
-I build scalable, secure, and reliable software solutions with a focus on enterprise applications, communication platforms, backend architecture, and distributed systems.
+</div>
 
-I enjoy transforming complex business requirements into production-oriented applications.
+<br/>
 
----
+<table>
+<tr>
+<!-- ============ ABOUT ME ============ -->
+<td width="50%" valign="top">
 
-## 🚀 About Me
+### 👤 About Me
 
-- 💻 Full Stack Developer focused on enterprise software engineering.
-- 🏢 Working on SaaS and multi-tenant application architectures.
-- 🔭 Building communication platforms and real-time applications.
-- ⚙️ Interested in backend engineering, system design, and API architecture.
-- 🗄️ Working with SQL and NoSQL database technologies.
-- ☁️ Exploring cloud infrastructure, DevOps, and deployment automation.
-- 📚 Continuously learning and improving engineering practices.
+- 💻 **4+ years** of experience in full stack development
+- 🏢 Currently building **CommsHub** & **Ashniva Connect** (enterprise communication SaaS)
+- 🏗️ Experienced in building scalable, multi-tenant and compliance-ready platforms
+- ⚙️ Passionate about **DevOps, system design** and product engineering
+- 🌱 Always learning and exploring new technologies
 
----
+</td>
 
-## 🛠️ Technology Stack
+<!-- ============ TECH STACK ============ -->
+<td width="50%" valign="top">
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 🛠️ Tech Stack
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Languages**&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" height="30" align="center" /><br/><br/>
+**Frontend**&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind&theme=dark" height="30" align="center" /><br/><br/>
+**Backend**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs,express,fastify&theme=dark" height="30" align="center" /><br/><br/>
+**Database**&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&theme=dark" height="30" align="center" /><br/><br/>
+**DevOps**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx&theme=dark" height="30" align="center" /><br/><br/>
+**Tools**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" height="30" align="center" />
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
+</td>
+</tr>
 
-### Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<tr>
+<!-- ============ FEATURED PROJECTS ============ -->
+<td width="50%" valign="top">
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🗂️ Featured Projects
 
----
+**[CommsHub](https://github.com/sonuashniva445/commshub)** — Enterprise communication SaaS (SMS, WhatsApp, Email, Voice, OTP) with RBAC, KYC, billing, wallet & ledger.
 
-## 🏗️ Featured Projects
+**[Ashniva Connect](https://github.com/sonuashniva445/ashniva-connect)** — Multi-channel communication platform with DLT, routing, templates, webhooks & analytics architecture.
 
-### 1. CommsHub — Enterprise Communication SaaS
+**[Carelix Meet](https://github.com/sonuashniva445/carelix-meet)** — Secure video meeting platform (WebRTC) with multi-device join, screen share and real-time collaboration.
 
-An enterprise-oriented communication platform designed to manage multi-channel communication infrastructure.
+</td>
 
-**Key engineering areas:**
-- Multi-tenant architecture
-- Role-Based Access Control (RBAC)
-- API Key Management
-- Wallet and Ledger Architecture
-- Payment Gateway Integration
-- KYC Workflows
-- Redis and Background Workers
+<!-- ============ GITHUB STATS ============ -->
+<td width="50%" valign="top">
 
-### 2. Ashniva Connect — Communication Platform
+### 📊 GitHub Stats
 
-A multi-channel communication SaaS platform focused on developer-friendly APIs and communication infrastructure.
+<img src="https://github-readme-stats.vercel.app/api?username=sonuashniva445&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" width="100%" alt="GitHub Stats" />
 
-**Key engineering areas:**
-- SMS and OTP infrastructure
-- DLT workflows
-- Multi-channel communication architecture
-- Webhooks and API integrations
-- Routing and retry mechanisms
-- Analytics and billing architecture
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonuashniva445&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" alt="Most Used Languages" />
 
-### 3. Carelix Meet — Real-Time Meeting Platform
+</td>
+</tr>
+</table>
 
-A real-time video meeting application built around WebRTC technology.
+<br/>
 
-**Key engineering areas:**
-- Real-time audio and video
-- Multi-device meeting support
-- Screen sharing
-- Meeting management
-- Next.js and Node.js architecture
-- PostgreSQL and Prisma ORM
+<!-- ============ LET'S CONNECT ============ -->
+<div align="center">
 
----
+### 🤝 Let's Connect
 
-## 📊 GitHub Statistics
+[![Email](https://img.shields.io/badge/Email-sonukumar%40ashniva.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonukumar@ashniva.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sonukumar--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonukumar-dev)
+[![X](https://img.shields.io/badge/X-@sonuashniva-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sonuashniva)
+[![Website](https://img.shields.io/badge/Website-www.ashniva.com-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ashniva.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonuashniva445&show_icons=true&theme=tokyonight&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonuashniva445&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+reliable+software.;Learning+continuously.;Engineering+for+scale." alt="Typing SVG" />
 
----
-
-## 🎯 Current Engineering Interests
-
-- Enterprise SaaS Architecture
-- Distributed Systems
-- Database Scaling and Optimization
-- Backend Performance Engineering
-- API Security and Authentication
-- Docker and AWS Infrastructure
-- CI/CD and Production Deployment
-
----
-
-## 🤝 Let's Connect
-
-**Email:** sonukumar@ashniva.com
-
-**GitHub:** https://github.com/sonuashniva445
-
----
-
-⭐ Thanks for visiting my GitHub profile!
-
-*Building reliable software. Learning continuously. Engineering for scale.*
+</div>
