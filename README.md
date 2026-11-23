@@ -2,12 +2,12 @@
 
 <img src="./assets/header.svg" alt="Hi, I'm Sonu Kumar - Full Stack Software Engineer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+scalable+production-grade+web+platforms;Led+search+%26+filtration+for+500%2B+live+projects;Cut+API+payloads+by+~89%25+at+100Acress.com;Building+CommsHub+%26+Ashniva+Connect+SaaS;Currently+%40+Carelix+Healthcare+%F0%9F%8F%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+scalable+production-grade+web+platforms;Led+search+%26+filtration+for+500%2B+live+projects;Cut+API+payloads+by+~89%25+at+100Acress.com;Building+CommsHub+%26+Ashniva+Connect+SaaS;Currently+%40+Ashniva+Technology+%F0%9F%8F%A2" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/📍_Gurugram,_India-0f2140?style=for-the-badge&labelColor=0d1117&color=38BDF8" />
-<img src="https://img.shields.io/badge/💼_Currently_@_Carelix_Healthcare-0f2140?style=for-the-badge&labelColor=0d1117&color=6366F1" />
+<img src="https://img.shields.io/badge/💼_Currently_@_Ashniva_Technology-0f2140?style=for-the-badge&labelColor=0d1117&color=6366F1" />
 <img src="https://img.shields.io/badge/🧩_300+_LeetCode_Solved-2b1d0a?style=for-the-badge&labelColor=0d1117&color=F59E0B" />
 
 <br/><br/>
@@ -31,7 +31,7 @@ const sonu = {
   role:         "Full Stack Software Engineer",
   location:     "Gurugram, India 🇮🇳",
   experience:   "2.5+ years building production-grade web applications",
-  currentWork:  "Full Stack Developer @ Carelix Healthcare (Sep 2026 — Present)",
+  currentWork:  "Full Stack Developer @ Ashniva Technology Pvt. Ltd. (Sep 2026 — Present)",
   previousWork: "Full Stack Developer @ 100Acress.com — multi-country real estate platform",
   building:     ["CommsHub", "Ashniva Connect", "Carelix Meet"],
   focus:        ["Next.js", "React", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "Redis", "AWS"],
@@ -66,10 +66,10 @@ const sonu = {
 <table width="100%">
 <tr><td>
 
-### 🏥 Full Stack Developer — **Carelix Healthcare**
-**Sep 2026 – Present | Gurugram, India**
+### 🏢 Full Stack Developer — **Ashniva Technology Private Limited**
+**Sep 2026 – Present | Sector 48, JMD Megapolis, Gurugram, India**
 
-Building full-stack features with the **MERN stack and Next.js** — scalable APIs, optimized data layers and performant React/Next.js frontends. Also building **Carelix Meet**, a WebRTC-based video meeting platform.
+Building full-stack products with the **MERN stack and Next.js** — scalable APIs, optimized data layers and performant React/Next.js frontends. Working on **CommsHub**, **Ashniva Connect** and **Carelix Meet** (a WebRTC-based video meeting platform).
 
 </td></tr>
 <tr><td>
